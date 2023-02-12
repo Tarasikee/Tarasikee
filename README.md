@@ -4,17 +4,3 @@ A passionate 20-year-old software engineer from Kharkiv, Ukraine, now based in O
 
 [![Taras's github stats](https://github-readme-stats.vercel.app/api?username=Tarasikee)](https://github.com/Tarasikee)
 
-
-## Skills and Knowledge
-
-- JavaScript (4 years of experience in developing different scales applications)
-- Typescript (2 years of commercial software development with React and Angular2)
-- Python (2 years of backend development)
-- Django (1 year of backend development, Django-RESTful)
-- React development (3 years of commercial software development)
-- NextJS development (1 year of commercial software development)
-- Redux (RTK, Redux-Thunk, Redux-Observables)
-- Http frameworks (axios, React Query, RTK Query)
-- UI frameworks (Material, Bootstrap, Fluent)
-- Chrome extension development (manifest v3)
-- T-SQL (University course graduation with internship at Kharkiv data science laboratory)
