@@ -5,10 +5,6 @@ A passionate 20-year-old software engineer from Kharkiv, Ukraine, now based in O
 [![Taras's github stats](https://github-readme-stats.vercel.app/api?username=Tarasikee)](https://github.com/Tarasikee)
 
 
-## It's me :)
-![The photo of me](https://avatars.githubusercontent.com/u/51419482?v=4)
-
-
 ## Skills and Knowledge
 
 - JavaScript (4 years of experience in developing different scales applications)
