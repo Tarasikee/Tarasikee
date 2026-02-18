@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate 22-year-old software engineer from Kharkiv, Ukraine, now based in Oslo, Norway. Having almost 10 years of experience in the IT industry. With a strong background in software engineering.<br>
+A passionate 23-year-old software engineer from Kharkiv, Ukraine, now based in Oslo, Norway. Having almost 10 years of experience in the IT industry. With a strong background in software engineering.<br>
 
 
 ## 🌐 Socials:
